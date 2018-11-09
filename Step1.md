@@ -12,4 +12,5 @@
 </a-scene>​
 ```
 
-In A-Frame almost everthing is based on components. 
+When looking at the code above you notice it looks like HTML. In A-Frame almost everything is based on components. The elements and attributes in the example above are components.
+
